@@ -10,3 +10,7 @@ Automatic Table and Date Search
 Multiple Search Categories 
 - Using multiple input tags and/or select dropdowns, wrote JavaScript code 
 
+![image](https://user-images.githubusercontent.com/63757160/109601765-11394f00-7ae5-11eb-812d-01a47a91f865.png)
+
+![image](https://user-images.githubusercontent.com/63757160/109601818-2f06b400-7ae5-11eb-8049-51bc90b7f43a.png)
+
